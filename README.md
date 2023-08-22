@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juliavviray00
-- 👀 I’m interested in learning to design websites and mobile UI as well.
+- 👀 I’m interested in learning the principles of designing on websites and mobile UI as well.
 - 🌱 I’m currently learning Frontend Web Development Fundamentals.
 - 💞️ I’m looking to collaborate with different Developers.
 - 📫 You can reach through the links I have posted. Thanks!
